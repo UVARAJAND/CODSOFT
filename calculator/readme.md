@@ -13,11 +13,11 @@ this calculator layout in inspired from **mac ios calculator**.
 
 ## Screenshots and Video
 ### Dark theme
-![Screenshot 1](/screenshots/screenshot1.png)
-![Screenshot 2](/screenshots/screenshot2.png)
+![Screenshot 1](/screenshots/screenshot1.PNG)
+![Screenshot 2](/screenshots/screenshot2.PNG)
 ### White theme
-![Screenshot 1](/screenshots/screenshot3.png)
-![Screenshot 2](/screenshots/screenshot4.png)
+![Screenshot 1](/screenshots/screenshot3.PNG)
+![Screenshot 2](/screenshots/screenshot4.PNG)
 [Watch the project demo video](/videos/demo.mp4)
 
 ## Getting Started
