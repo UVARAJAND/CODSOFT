@@ -84,16 +84,19 @@ class Calculator(ctk.CTk):
                     self.formula_string.set(' '.join(self.full_operation))
                else:
                     formula=' '.join(self.full_operation)
-                    result=eval(formula)
-                    if isinstance(result, float):
-                         if result.is_integer():
-                              result=int(result)
-                         else:
-                              result=round(result, 3)
-                    self.full_operation.clear()
-                    self.display_nums=[str(result)]
-                    self.result_string.set(result)
-                    self.formula_string.set(formula)
+                    try:
+                         result=eval(formula)
+                         if isinstance(result, float):
+                              if result.is_integer():
+                                   result=int(result)
+                              else:
+                                   result=round(result, 3)
+                         self.full_operation.clear()
+                         self.display_nums=[str(result)]
+                         self.result_string.set(result)
+                         self.formula_string.set(formula)
+                    except ZeroDivisionError:
+                         self.result_string.set("∞ clear")
     def clear(self):
           self.result_string.set(0)
           self.formula_string.set('')
