@@ -18,7 +18,7 @@ this calculator layout in inspired from **mac ios calculator**.
 ### White theme
 ![Screenshot 1](screenshots/screenshot3.PNG)
 ![Screenshot 2](screenshots/screenshot4.PNG)
-[Watch the project demo video](/videos/demo.mp4)
+[Watch the project demo video](videos/demo.mp4)
 
 ## Getting Started
 
