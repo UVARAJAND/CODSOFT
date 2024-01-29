@@ -3,13 +3,14 @@
 ## Overview
 
 This project is a calculator implemented in Python using the Tkinter module specifically customtkinter. It provides a graphical user interface with basic calculator functionalities.
-this calculator layout in inspired from **mac ios calculator**.
+
+#### This calculator layout in inspired from **mac ios calculator**.
 
 ## Features
 
-- Addition, subtraction, multiplication, and division operations.
+- Addition, subtraction, multiplication, division ,percentage and invert operations.
 - Clear button to reset the input.
-- Automattically changes into light of dark theme based on the systems theme
+- Automattically changes into <u>**light of dark theme**</u> based on the systems theme
 
 ## Screenshots
 ### Dark theme
@@ -28,7 +29,7 @@ this calculator layout in inspired from **mac ios calculator**.
 
 + calculator.py:  Main Python file for the calculator application.
 
-+ cal-setting.py: Submodule for defining the layout of the calculator.
++ calc-setting.py: Submodule for defining the layout of the calculator.
 
 + buttons.py: Submodule for designing the buttons and creating the buttons.
 
