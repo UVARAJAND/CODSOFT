@@ -10,7 +10,7 @@ This project is a calculator implemented in Python using the Tkinter module spec
 
 - Addition, subtraction, multiplication, division ,percentage and invert operations.
 - Clear button to reset the input.
-- Automattically changes into <u>**light of dark theme**</u> based on the systems theme
+- Automattically changes into <span style="color:blue">**light of dark theme**</span> based on the systems theme
 
 ## Screenshots
 ### Dark theme
