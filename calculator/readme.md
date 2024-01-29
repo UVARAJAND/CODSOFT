@@ -47,11 +47,18 @@ To clone the project consider that **git** is installed in your system.If not yo
 
 ```bash
 
-    git clone https://github.com/your-username/calculator-project.git
+    git clone https://github.com/UVARAJAND/CODSOFT.git
 
-    cd calculator-project
+    cd CODSOFT
 
+    cd calculator
+```
+2. Install the requirements
+   
+```bash
     pip install -r requirements.txt
-
+```
+3.Run python program
+```bash
     python calculator.py
-
+```
