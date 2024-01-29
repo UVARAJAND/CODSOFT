@@ -11,13 +11,15 @@ this calculator layout in inspired from **mac ios calculator**.
 - Clear button to reset the input.
 - Automattically changes into light of dark theme based on the systems theme
 
-## Screenshots and Video
+## Screenshots
 ### Dark theme
 ![Screenshot 1](screenshots/screenshot1.PNG)
 ![Screenshot 2](screenshots/screenshot2.PNG)
 ### White theme
 ![Screenshot 1](screenshots/screenshot3.PNG)
 ![Screenshot 2](screenshots/screenshot4.PNG)
+
+## Video
 [Watch the project demo video](videos/demo.mp4)
 
 ## Getting Started
@@ -37,7 +39,7 @@ this calculator layout in inspired from **mac ios calculator**.
 
 Make sure you have Python installed. You can download it from [python.org](https://www.python.org/).
 
-To clone the project consider that **git** is instlled in your system.If not ypu can download it from [git](https://git-scm.com/downloads)
+To clone the project consider that **git** is installed in your system.If not you can download it from [git.downloads](https://git-scm.com/downloads)
 
 ### Installation
 
