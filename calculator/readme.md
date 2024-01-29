@@ -37,6 +37,8 @@ this calculator layout in inspired from **mac ios calculator**.
 
 Make sure you have Python installed. You can download it from [python.org](https://www.python.org/).
 
+To clone the project consider that **git** is instlled in your system.If not ypu can download it from [git](https://git-scm.com/downloads)
+
 ### Installation
 
 1. Clone the repository:
